@@ -1,0 +1,15 @@
+@media (max-width: 650px) {
+  body {
+    text-align: center;
+  }
+}
+#welcome-section {
+  padding-top: 0px;
+  margin-top: 0px;
+  display: block;
+  height: 100vh;
+}
+#navbar {
+  position: fixed;
+  top: 0;
+}
